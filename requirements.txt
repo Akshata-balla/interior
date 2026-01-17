@@ -1,0 +1,9 @@
+streamlit
+openai
+transformers
+accelerate
+bitsandbytes
+diffusers
+pillow
+torch
+torchvision
