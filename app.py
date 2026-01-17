@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1Di_yFWFUNRYwaM4LJV3OUwZ34pxCd7VS
 """
 
-!pip install -q streamlit openai transformers accelerate bitsandbytes diffusers pillow
-!npm install -g localtunnel
 
 # Commented out IPython magic to ensure Python compatibility.
 # %%writefile app.py
